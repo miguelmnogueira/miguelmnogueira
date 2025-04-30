@@ -36,5 +36,5 @@
 
 <h3>Contact me!</h3>
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/433364426586980373)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](work_in_progress.com)
