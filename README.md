@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://github.com/miguelmnogueira/">
-<img src="https://skillicons.dev/icons?i=html,js,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
  </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/miguelmnogueira/">
