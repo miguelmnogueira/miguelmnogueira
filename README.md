@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I'm Miguel (he/him) — a student and full-stack developer passionate about building projects in my free time. I’m especially interested in front-end development and UI/UX design, while I typically focus on back-end development in professional settings. You can usually reach me on Discord!</p>
+<p align="left">I'm <strong>Miguel (he/him)</strong> — a student and full-stack developer passionate about building projects in my free time. You can usually reach me via Discord!</p>
 
 ###
 
-<p align="left">- 🎯 Current Goal: Polish my front-end technics<br>- 🎨 I regularly experiment with overall design</p>
+<p align="left">- 🎯 <strong>Current Goal:</strong> Polish my front-end technics<br>- 🎨 I regularly experiment with <strong>overall design</strong></p>
 
 ###
 
