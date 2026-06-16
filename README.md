@@ -1,87 +1,79 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+# Hi, I'm Miguel! 👋
 
-###
+I'm a brazilian **Full-Stack Developer** and student passionate about building modern web applications and creating intuitive user experiences. I enjoy turning ideas into functional projects, combining clean design with efficient code.
 
-<h2 align="left">🧑‍💻 About me</h2>
+Currently, I'm balancing my technical education with personal projects, constantly improving my skills and expanding my knowledge of web development.
 
-###
+---
 
-<p align="left">I'm <strong>Miguel (he/him)</strong> — a student and full-stack developer passionate about building projects in my free time. You can usually reach me via Discord!</p>
+### 🎓 Education & Languages
 
-###
+* 📚 **Systems Development Technician** | SENAI
+* 🏫 **High School Student** | SESI
+* 📖 **English Proficiency:** Comfortable with technical documentation, reading, and communication
 
-<p align="left">- 🎯 <strong>Current Goal:</strong> Polish my front-end technics<br>- 🎨 I regularly experiment with <strong>overall design</strong></p>
+---
 
-###
+### 🧠 Soft Skills & Strengths
 
-<h2 align="left">🖥️ My tech stack</h2>
+* **Self-Taught:** Able to learn new technologies independently and quickly.
+* **Problem Solving:** Enjoy breaking down complex problems and finding practical solutions.
+* **Creative Mindset:** Strong interest in UI/UX design and user-centered development.
+* **Continuous Learning:** Always exploring new tools, frameworks, and development practices.
 
-###
+---
 
-<br clear="both">
+### 🛠️ Technologies & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="boostrap logo"  />
+#### Frontend
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" alt="React" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap">
 </div>
 
-###
+<br>
 
-<h2 align="left">🌐 Contact me</h2>
+#### Backend & Databases
 
-###
-
-<div align="left">
-  <a href="https://discord.com/users/433364426586980373" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="Express" height="30" width="40" src="https://skillicons.dev/icons?i=express">
+  <img align="center" alt="PHP" height="30" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://skillicons.dev/icons?i=laravel">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://skillicons.dev/icons?i=mongodb">
 </div>
 
-###
+<br>
 
-<h2 align="left">📊 My Stats</h2>
+#### Tools & Environment
 
-###
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="30" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="Docker" height="30" width="40" src="https://skillicons.dev/icons?i=docker">
+  <img align="center" alt="Figma" height="30" width="40" src="https://skillicons.dev/icons?i=figma">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://skillicons.dev/icons?i=vscode">
+  <img align="center" alt="VS Code" height="30" width="40" src="https://skillicons.dev/icons?i=phpstorm">
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelmnogueira/miguelmnogueira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelmnogueira/miguelmnogueira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/miguelmnogueira/miguelmnogueira/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-###
+### ⚡ Beyond Coding
+
+* 🎨 Interested in **UI/UX Design** and creating visually appealing interfaces.
+* 🌐 Passionate about web technologies and modern development practices.
+* 🚀 Constantly building personal projects to learn and improve.
+* 🎵 Music is usually part of my workflow while coding and studying.
+
+---
+
+### 📫 Contact
+
+Feel free to reach out if you'd like to connect, collaborate, or discuss technology and development projects.
