@@ -10,7 +10,7 @@ Currently, I'm balancing my technical education with personal projects, constant
 
 * 📚 **Systems Development Technician** | SENAI
 * 🏫 **High School Student** | SESI
-* 📖 **English Proficiency:** Comfortable with technical documentation, reading, and communication
+* 📖 **English Proficiency:** Advanced, comfortable with technical documentation reading, and communication
 
 ---
 
