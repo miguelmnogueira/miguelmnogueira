@@ -33,8 +33,10 @@ Currently, I'm balancing my technical education with personal projects, constant
   <img align="center" alt="JavaScript" height="30" width="40" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://skillicons.dev/icons?i=ts">
   <img align="center" alt="React" height="30" width="40" src="https://skillicons.dev/icons?i=react">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
+    <img align="center" alt="Tailwind" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap">
+    <img align="center" alt="vue" height="30" width="40" src="https://skillicons.dev/icons?i=vue">
+
 </div>
 
 <br>
